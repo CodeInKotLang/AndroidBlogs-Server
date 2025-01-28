@@ -1,20 +1,20 @@
 [
-  {
-    "id" : 1,
-    "title" : "Mastering Markdown: A Beginner's Guide to formatting like a Pro!",
-    "thumbnail_url" : "https://raw.githubusercontent.com/CodeInKotLang/AndroidBlogs-Server/refs/heads/main/images/markdown.jpeg",
-    "content_url" : "https://raw.githubusercontent.com/CodeInKotLang/AndroidBlogs-Server/refs/heads/main/blogs/blog1.md"
-  },
-  {
-    "id" : 2,
-    "title" : "Understanding JSON: A Comprehensive Guide",
-    "thumbnail_url" : "https://raw.githubusercontent.com/CodeInKotLang/AndroidBlogs-Server/refs/heads/main/images/json.jpeg",
-    "content_url" : "https://raw.githubusercontent.com/CodeInKotLang/AndroidBlogs-Server/refs/heads/main/blogs/blog2.md"
-  },
-  {
-    "id" : 3,
-    "title" : "The Complete Guide to Room Database in Android for Efficient Data Storage",
-    "thumbnail_url" : "https://raw.githubusercontent.com/CodeInKotLang/AndroidBlogs-Server/refs/heads/main/images/room.jpeg",
-    "content_url" : "https://raw.githubusercontent.com/CodeInKotLang/AndroidBlogs-Server/refs/heads/main/blogs/blog3.md"
-  }
+    {
+        "id": 1,
+        "title": "Mastering Markdown: A Beginner's Guide to formatting like a Pro!",
+        "thumbnail_url": "https://raw.githubusercontent.com/CodeInKotLang/AndroidBlogs-Server/refs/heads/main/images/markdown.jpeg",
+        "content_url": "https://raw.githubusercontent.com/CodeInKotLang/AndroidBlogs-Server/refs/heads/main/blogs/blog1.md"
+    },
+    {
+        "id": 2,
+        "title": "Understanding JSON: A Comprehensive Guide",
+        "thumbnail_url": "https://raw.githubusercontent.com/CodeInKotLang/AndroidBlogs-Server/refs/heads/main/images/json.jpeg",
+        "content_url": "https://raw.githubusercontent.com/CodeInKotLang/AndroidBlogs-Server/refs/heads/main/blogs/blog2.md"
+    },
+    {
+        "id": 3,
+        "title": "The Complete Guide to Room Database in Android for Efficient Data Storage",
+        "thumbnail_url": "https://raw.githubusercontent.com/CodeInKotLang/AndroidBlogs-Server/refs/heads/main/images/room.jpeg",
+        "content_url": "https://raw.githubusercontent.com/CodeInKotLang/AndroidBlogs-Server/refs/heads/main/blogs/blog3.md"
+    }
 ]
