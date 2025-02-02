@@ -81,7 +81,7 @@ fun BoxLayoutExample() {
 🔹 **Best for overlays, backgrounds, and absolute positioning.**
 
 ---
-![Basic Layout](https://developer.android.com/static/develop/ui/compose/images/layout-column-row-box.svg)
+![Basic Layout](https://raw.githubusercontent.com/CodeInKotLang/AndroidBlogs-Server/refs/heads/main/images/layout.png)
 ---
 
 ### **4. LazyColumn (Efficient List)**
