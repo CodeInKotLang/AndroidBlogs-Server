@@ -4,7 +4,7 @@
 
 JSON (JavaScript Object Notation) is a lightweight data-interchange format that is easy for humans to read and write and easy for machines to parse and generate. It is widely used for data exchange between web servers and clients, APIs, and databases due to its simplicity and efficiency.
 
-![json image](https://raw.githubusercontent.com/danielharold21/AndroidBlogger/refs/heads/main/images/json.jpeg)
+![json image](https://raw.githubusercontent.com/CodeInKotLang/AndroidBlogs-Server/refs/heads/main/images/json.jpeg)
 
 ## 2. Comparison with XML
 
